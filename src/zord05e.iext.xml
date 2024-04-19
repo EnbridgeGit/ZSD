@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IEXT" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IEXT>
+    <ATTRIBUTES>
+     <DESCRP>SD: Extension to ORDERS05</DESCRP>
+     <FIRSTTYP>ZORD05E</FIRSTTYP>
+     <LASTTYP>ZORD05E</LASTTYP>
+     <IDOCTYP>ORDERS05</IDOCTYP>
+    </ATTRIBUTES>
+    <T_SYNTAX>
+     <EDI_IAPI03>
+      <REFSEGTYP>E1EDK01</REFSEGTYP>
+      <NR>0001</NR>
+      <SEGTYP>Z1OR05E</SEGTYP>
+      <OCCMIN>0000000001</OCCMIN>
+      <OCCMAX>0000000001</OCCMAX>
+      <HLEVEL>01</HLEVEL>
+     </EDI_IAPI03>
+    </T_SYNTAX>
+   </IEXT>
+  </asx:values>
+ </asx:abap>
+</abapGit>
